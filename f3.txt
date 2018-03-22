@@ -1,3 +1,7 @@
 coolgit:master:f3:01
+<<<<<<< HEAD
 coolgit:master:f3:02
 
+=======
+coolgit:exp:f3:02
+>>>>>>> exp
