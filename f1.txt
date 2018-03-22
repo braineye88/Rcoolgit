@@ -2,3 +2,8 @@ f1.txt: 1
 f1.txt: 2
 f1.txt: 3
 source code:master:f1:a1
+<<<<<<< Updated upstream
+=======
+source code:exp:f1:exp01
+source code:exp:f1:exp02
+>>>>>>> Stashed changes
